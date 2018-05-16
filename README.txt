@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/jethazelhurst/pen/yozEMp.
-
- This is my personal portfolio design built for FreeCodeCamp. In this design I have done away with frameworks completely instead relying on native CSS, in particular Flexbox. The only external dependencies are for the Fontawesome Icon and Feather icon libraries as well as two google fonts (just to make things pretty).
+# New Portfolio for 2018
+WIP. More information coming soon.
