@@ -22,6 +22,17 @@ body {
 a {
     text-decoration: none;
 }
+
+/*----------------*/
+
+.col {
+    padding: 5px;
+    width: 120%;
+}
+
+
+/*---------------------------*/
+
 .arrow {
   position: relative;
 }
@@ -265,9 +276,9 @@ footer h4 {
   }
 }
 .img-fluid {
-  max-width: 300px;
+  min-width: 150%;
+  min-width: 150%;
   margin: 0 auto;
-  object-fit: contain;
   padding: 10px;
 }
 .flex2 {
@@ -1004,4 +1015,6 @@ box-shadow:0 1px 3px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.1) inset
   height:calc(100% + 12px);border-color:#353535;}
 .bw button:hover {color:#fff;background-color:#353535;border-color:#353535}
 .blue .panel {max-width:960px;text-align:center;position:relative;margin:auto;}
+
+/*-------------------------------*/
 
